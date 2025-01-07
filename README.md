@@ -1,3 +1,12 @@
+
+## <span style="color:red">News: Follow-up Work</span>
+
+Welcome to take a look at our new work presented at CoRL 2024, titled "[Toward General Object-level Mapping from Sparse Views with 3D Diffusion Priors](https://github.com/TRAILab/GeneralObjectMapping)." 
+
+We propose an object-level mapping framework that fuses both multi-view observations and a pre-trained **diffusion** shape prior model. It generalizes to **multi-categories** objects, and multiple multi-modalities observations without the need of fine-tuning.
+
+Below are the original notes.
+
 # Uncertainty-aware Object-level Mapping
 
 ![Teaser](docs/images/teaser.png)
